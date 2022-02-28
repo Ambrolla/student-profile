@@ -1,0 +1,75 @@
+body {
+  font-family: "Outfit", sans-serif;
+  font-family: "Raleway", sans-serif;
+  text-align: left;
+  background-color: white;
+}
+
+i {
+  float: right;
+  font-size: 100px;
+  border: none;
+  text-align: center;
+  margin: 30px 90px 50px 0px;
+  position: relative;
+  bottom: 200px;
+}
+
+input {
+  font-family: "Outfit", sans-serif;
+  font-family: "Raleway", sans-serif;
+  width: auto;
+  border: 1px rgb(128, 126, 126);
+  border-style: none none solid;
+  margin: 15px 650px;
+}
+
+h2 {
+  font-size: 33px;
+  font-weight: bolder;
+}
+
+ol {
+  margin: 0 -30px;
+}
+
+/* CLASSES */
+
+.card {
+  margin-bottom: 50px;
+}
+
+.card img {
+  margin: 50px 30px 0 0;
+  float: left;
+}
+
+.circle-img {
+  border-radius: 50%;
+  border: 1px solid rgb(128, 126, 126);
+  width: 185px;
+  height: 185px;
+}
+
+.user-info {
+  border-radius: 25px;
+  position: relative;
+  padding: 40px 250px;
+  margin: 70px 20;
+  box-shadow: 0 1px 2px rgb(212, 211, 211);
+  text-align: left;
+}
+
+.grades {
+  margin: 50px 190px;
+}
+
+.custom-icon {
+  font-size: 3em;
+  float: right;
+}
+
+.tags {
+  background-color: tan;
+  width: fit-content;
+}
